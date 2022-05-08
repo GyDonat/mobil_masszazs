@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462230641200",
+    "project_id": "webfejl-793ec",
+    "storage_bucket": "webfejl-793ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462230641200:android:bb537c9622d81b94bcabf5",
+        "android_client_info": {
+          "package_name": "com.example.masszazs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462230641200-u3ga4msm8v6kmdfd0e5cj6t8hrm9ktac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masszazs",
+            "certificate_hash": "2cf63cf668d79dde813816447b1f99ba507ac313"
+          }
+        },
+        {
+          "client_id": "462230641200-c7bgllit0qpin5f0vvdqfh02vva4cq5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBstX2fiJbly7FqdKQLe5aZHSi61aVTdo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462230641200-c7bgllit0qpin5f0vvdqfh02vva4cq5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

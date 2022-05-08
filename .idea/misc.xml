@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/drawable/logout_icon.xml" value="0.403" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/drawable/notification.xml" value="0.4705" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/layout-land/activity_main.xml" value="0.2654320987654321" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/layout/activity_booking.xml" value="0.33" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/layout/activity_latest_booking.xml" value="0.3796875" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/layout/activity_my_booking.xml" value="0.3796875" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/layout/activity_register.xml" value="0.31354166666666666" />
+        <entry key="..\:/Egyetem/4.felev/Mobil_alkfejl/Masszazs/app/src/main/res/menu/logout.xml" value="0.3796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
